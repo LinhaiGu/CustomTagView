@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
         custom_view2.setContentAndTag("商品名称，最棒的产品，快来购买","新品推荐");
     }
 }
+```
 
 item_tag:
 
