@@ -1,5 +1,7 @@
 # CustomTagView
 
+![](https://raw.githubusercontent.com/LinhaiGu/imagefile/master/20190430182508.jpg)
+
 Step 1. Add the JitPack repository to your build file
 
 * gradle
