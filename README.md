@@ -1,5 +1,7 @@
 # CustomTagView
 
+[![](https://jitpack.io/v/LinhaiGu/CustomTagView.svg)](https://jitpack.io/#LinhaiGu/CustomTagView)
+
 ![](https://raw.githubusercontent.com/LinhaiGu/imagefile/master/20190430182508.jpg)
 
 Step 1. Add the JitPack repository to your build file
@@ -21,7 +23,7 @@ Step 2. Add the dependency
 
 ```
 	dependencies {
-	        implementation 'com.github.LinhaiGu:CustomTagView:Tag'
+	        implementation 'com.github.LinhaiGu:CountdownView:v1.0'
 	}
 ```
 
